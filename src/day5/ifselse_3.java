@@ -13,7 +13,7 @@ public class ifselse_3 {
 	public static void main(String[] args) {
 
 int marks =67;
-if (marks>75)
+/*if (marks>75)
 System.out.println("Distinction");
 else if(marks<75 && marks >=60);
 System.out.println("First class");
@@ -24,7 +24,7 @@ System.out.println("First class");
 else if(marks<75 && marks >=60);
 System.out.println("First class");
 
-
+*/
 
 	}
 
